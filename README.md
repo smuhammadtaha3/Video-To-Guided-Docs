@@ -1,6 +1,4 @@
-# YouTube to Doc
-
-https://github.com/user-attachments/assets/4431d283-23c3-40eb-8c65-a20361a3e945
+# YouTube Video to Guided Doc
 
 Turn any YouTube video into a comprehensive documentation link that AI coding tools and LLMs can easily index and understand.
 
